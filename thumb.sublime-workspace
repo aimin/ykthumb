@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ImgHandler/ImgHandler.go",
+			"settings":
+			{
+				"buffer_size": 2009,
+				"line_ending": "Windows",
+				"name": "namespace ImageHandler;"
+			}
+		},
+		{
+			"file": "src/ImgHandler/ImgHandler_test.go",
+			"settings":
+			{
+				"buffer_size": 109,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/cygwin/home/sam/test/thumb",
+		"/D/cygwin/home/sam/test/thumb/src",
+		"/D/cygwin/home/sam/test/thumb/src/ImgHandler"
+	],
+	"file_history":
+	[
+		"/C/Users/sam/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/D/cygwin/home/sam/test/thumb/set.sh",
+		"/D/cygwin/home/sam/test/thumb/thumb.sublime-project",
+		"/D/Go_workspace/go-winapi/oleaut32.go",
+		"/D/Go_workspace/go-winapi/gdi32.go",
+		"/D/Go_workspace/go-winapi/listview.go",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Go_workspace/go-winapi/comdlg32.go",
+		"/D/Go_workspace/go-winapi/menu.go",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Go_workspace/go-winapi/winapi.go",
+		"/D/Go_workspace/src/github.com/lxn/walk/keyboard.go",
+		"/D/Go_workspace/go-winapi/shdocvw.go",
+		"/D/Go_workspace/go-winapi/combobox.go",
+		"/D/Go_workspace/go-winapi/edit.go",
+		"/Z/HTML/sso_oauth2/tests/yoka/OAuth2/Controller/AuthorizeControllerTest.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alt",
+			"forward",
+			"getTestServer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	{"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ImgHandler/ImgHandler.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"auto_name": "namespace ImageHandler;",
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 8
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ImgHandler/ImgHandler_test.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 21
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thumb.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"/alt",
+				"C:\\Users\\sam\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Default (Windows).sublime-keymap"
+			],
+			[
+				"/key",
+				"src\\github.com\\lxn\\walk\\keyboard.go"
+			],
+			[
+				"sh",
+				"go-winapi\\shdocvw.go"
+			],
+			[
+				"aucontes",
+				"tests\\yoka\\OAuth2\\Controller\\AuthorizeControllerTest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "random_name",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Users\\sam\\AppData\\Roaming\\Sublime Text 3\\Packages\\GoSublime"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
